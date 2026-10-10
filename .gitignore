@@ -1,0 +1,9 @@
+# Model weights are downloaded by download_models.py, not committed
+*.caffemodel
+opencv_face_detector_uint8.pb
+
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+result.jpg

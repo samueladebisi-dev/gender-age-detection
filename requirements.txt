@@ -1,0 +1,2 @@
+# OpenCV 5 removed the Caffe importer that the age/gender models need, so stay on 4.x.
+opencv-python>=4.8,<5
